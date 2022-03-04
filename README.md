@@ -1,3 +1,4 @@
+[![Hafta-2-Odev.js-hafta2-odev-assignment-Emreedk-Visual-Studio-Code-2022-03-04-02-48-38.gif](https://s7.gifyu.com/images/Hafta-2-Odev.js-hafta2-odev-assignment-Emreedk-Visual-Studio-Code-2022-03-04-02-48-38.gif)](https://gifyu.com/image/SM7ga)
 # Hamburger Hazırlama Projesi:
 
 ## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
